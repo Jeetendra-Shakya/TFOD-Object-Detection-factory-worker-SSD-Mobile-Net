@@ -18,4 +18,5 @@ If you have camera in your system it will be able to detect many person with Hel
 
 Outcome:
 1 - Compare to Faster RCNN it took around triple to train same dataset.
+
 2 - Image detection accurary is same 99% however video detection drop as per expected to around 80% but better than Faster RCNN
